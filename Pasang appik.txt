@@ -1,0 +1,11 @@
+xampp -> apache -> config -> PHP(php.ini) :
+extension=intl
+extension=sqlite3
+
+Git Bash -> which php
+
+edit the system environment variables -> environment variables... -> system variables -> Path -> edit 
+D:\xampp\php
+
+buka folder appik -> klik kanan -> Git Bash Here :
+php spark serve
